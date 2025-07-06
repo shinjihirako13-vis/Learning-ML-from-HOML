@@ -1,2 +1,1 @@
-# Project-1
-First basic ml project 
+Learning ML from HOML
